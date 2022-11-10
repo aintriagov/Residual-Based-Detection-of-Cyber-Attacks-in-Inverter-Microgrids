@@ -27,4 +27,4 @@ These files are Script_Microgrid_4DGs.m (run the Simulink files) and Script_Figu
 
 Inside the folder Simulink Project we have the folders corresponding to attacks and Mitigation strategy. The L2 norm can be seen in the attacks files and in the mitigation strategy files. 
 
-We also have the file Figures Paper with Tikz where you can check every link of how was the code to plot those figures inside Tikz environment. 
+We also have the file Figures Paper with Tikz where you can check every link of how was written the code to plot those figures inside Tikz environment. 
